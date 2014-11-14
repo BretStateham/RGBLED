@@ -14,6 +14,7 @@ Read below for more information:
 - [Installation](#installation)
 - [Example Circuits](#exampleCircuits)
 - [Example Sketch](#exampleSketch)
+- [Walkthrough Video](#video)
 
 <a name="installation" />
 ## Installation  ##
@@ -193,3 +194,10 @@ void printRgbValues() {
 ````
 
 1. The sketch is pretty well documented, so the reader is left to review the sketch on their own.
+
+<a name="video" />
+## Walkthrough Video ##
+
+I've recorded a quick walkthrough video that demonstrates the usage of the library.  You can get the video from here: http://youtu.be/eQKDne_CPyQ
+
+[![04010-VideoPic](images/04010-videopic.png?raw=true "Video Pic")](http://youtu.be/eQKDne_CPyQ)
