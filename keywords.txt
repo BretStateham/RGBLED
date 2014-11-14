@@ -1,0 +1,13 @@
+RGBLED	KEYWORD1
+common_type	KEYWORD1
+writeRGB	KEYWORD2
+writeRed	KEYWORD2
+writeGreen	KEYWORD2
+writeBlue	KEYWORD2
+writeRandom	KEYWORD2
+writeHSV	KEYWORD2
+writeColorWheel	KEYWORD2
+turnOff	KEYWORD2
+mapValue	KEYWORD2
+
+
